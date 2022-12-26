@@ -55,15 +55,12 @@
 
 
 <p align="center">
-  <img style="width:20rem; height:200px" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif"/>
+
   
   <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
-<img align="right" height="200" width="300" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"/>
+
 </p>
 
-<p align="center">
-  <img style="width:120px; height:120px" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif"/>
-</p>
 
 <h3 align="center">Languages</h3>
 <p align="center">
