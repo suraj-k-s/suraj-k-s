@@ -1,4 +1,5 @@
- <p align="center">
+
+  <p align="center">
     <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200" />
   </p>
   
@@ -10,23 +11,20 @@
         src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&pause=1000&color=5DF700&width=435&lines=Hello+There+%2C+Nice+To+See+You;I'm+Suraj+K+S;Full+Stack+Developer"
         alt="Typing SVG" /></a>
   </div>
-  
-<br>
+  ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif"
+      width=50px></picture> **About me**
 
+  <picture> <img align="right"
+      src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width=250px>
+  </picture>
 
+  <br>
 
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
-<br>
-
-  - A passionate Self-taught Front-end developer
+  - A passionate Self-taught Full Stack developer
   - Playing CTF's at spare time
-  - Currently learning Web Development by Self
-  - Personal website [link](https://www.0xabdulkhalid.ml)
-  - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+  - Currently learning New Technology by Self
+  - Personal website [link](https://surajks.com)
+  - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://surajks.com)
 
   <br><br>
 
