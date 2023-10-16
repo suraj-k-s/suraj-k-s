@@ -92,6 +92,11 @@
     <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
       alt="typescript"/>
   </a>
+	<a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"
+       alt="C#"/>
+</a>
+
 </p>
 
 <h3 align="center">Frontend</h3>
@@ -124,6 +129,11 @@
     <img src="https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"
       alt="webpack"/>
   </a>
+	<a href="https://mui.com/">
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"
+       alt="Material-UI"/>
+</a>
+
 </p>
 
 <h3 align="center">Backend</h3>
@@ -154,6 +164,27 @@
     <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white" 
       alt="nginx"/> 
   </a> 
+	  <a href="https://www.python.org/">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+       alt="Python"/>
+</a>
+<a href="https://www.djangoproject.com/">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"
+       alt="Django"/>
+</a>
+<a href="https://www.oracle.com/java/technologies/javaserverpages.html">
+  <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white"
+       alt="JSP"/>
+</a>
+<a href="https://developer.android.com/">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"
+       alt="Android"/>
+</a>
+<a href="https://flutter.dev/">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"
+       alt="Flutter"/>
+</a>
+
 </p>
 
 <h3 align="center">Database</h3>
