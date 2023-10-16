@@ -174,6 +174,20 @@
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
       alt="mongodb"/> 
   </a> 
+<a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
+      alt="mongodb"/> 
+  </a> 
+
+ <a href="https://www.mysql.com/" target="_blank">
+  <img src="https://img.shields.io/badge/MySQL-0078D4?style=for-the-badge&logo=mysql&logoColor=white"
+       alt="MySQL"/>
+</a>
+<a href="https://firebase.google.com/">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"
+       alt="Firebase"/>
+</a>
+
 </p>
 
 <h3 align="center">Cloud & Hosting:</h3>
