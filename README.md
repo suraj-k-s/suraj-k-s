@@ -21,8 +21,6 @@
   - Currently learning New Technology by Self
   - Personal website [link](https://surajks.com)
   - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://surajks.com)
-  - Add Your Email - git config --global user.email "surajks28101999@gmail.com"
-  - Add Your Username - git config --global user.name "suraj-k-s"
 
   <br><br>
 
