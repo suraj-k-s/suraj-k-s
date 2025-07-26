@@ -2,11 +2,6 @@
     <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200" />
   </p>
   
-  <img
-    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-    <img align="right" src="https://profile-counter.glitch.me/suraj-k-s/count.svg">
-    <br>
-
   <div align="center" >
     <a href="https://git.io/typing-svg"><img
         src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&pause=1000&color=5DF700&width=435&lines=Hello+There+%2C+Nice+To+See+You;I'm+Suraj+K+S;Full+Stack+Developer"
